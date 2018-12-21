@@ -4,6 +4,21 @@
 - This framework has been merged with CodeIgniter and Twig to produce a quality framework that run smoothly and is very light weight.
 - I saw "Laravel" syntax, I tried that syntax in CodeIgniter but that threw errors. Then I got the idea to produce this framework.
 
+## How to use twig?
+
+#### Look at this syntax:
+    - In PHP
+        ```php
+        <?php 
+            $var = "My love PHP";
+            echo $var; 
+        ?>
+    
+    - In Twig
+        ```php
+        {$var}
+
+    * That's so simple.
 
 ## Happy Coding :)
 
