@@ -8,17 +8,17 @@
 
 #### Look at this syntax:
     - In PHP
-        ```php
         <?php 
             $var = "My love PHP";
             echo $var; 
         ?>
     
     - In Twig
-        ```php
         {$var}
 
     * That's so simple.
+
+#### Want learn more about twig syntaxes? [You are welcome 'Developer'](https://twig.symfony.com/doc/2.x/templates.html)
 
 ## Happy Coding :)
 
