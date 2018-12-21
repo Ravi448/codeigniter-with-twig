@@ -1,3 +1,9 @@
+# CodeIgniter with Twig
+
+## This framework has been merged with CodeIgniter and Twig to produce a quality framework that run smoothly and is very light weight.
+
+
+
 ###################
 What is CodeIgniter
 ###################
