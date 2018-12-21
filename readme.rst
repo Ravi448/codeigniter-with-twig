@@ -3,9 +3,9 @@ CodeIgniter with Twig
 #####################
 
 
-- This framework has been merged with CodeIgniter and Twig to produce a quality framework that run smoothly and is very light weight.
+This framework has been merged with CodeIgniter and Twig to produce a quality framework that run smoothly and is very light weight.
 
-- I saw "Laravel" syntax, I tried that syntax in CodeIgniter but that threw errors. Then I got the idea to produce this framework.
+I saw "Laravel" syntax, I tried that syntax in CodeIgniter but that threw errors. Then I got the idea to produce this framework.
 
 
 Happy Coding :)
